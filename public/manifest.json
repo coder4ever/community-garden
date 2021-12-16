@@ -1,0 +1,28 @@
+{
+    "short_name": "Community Garden 🌿",
+    "name": "Community Garden Token",
+    "homepage_url": "https://0000aab.hns.siasky.net/#/)",
+    "description": "A social dApp build from the community to everyone who loves parks, flowers, and plants.",
+    "skylink": "AQDFD3HOnY-KW0VCQYr5WeRA_6F_r_098fGgt54dpruc6w",
+
+    "icons": [{
+            "src": "favicon.ico",
+            "sizes": "64x64 32x32 24x24 16x16",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "logo192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "logo512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
