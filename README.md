@@ -16,7 +16,7 @@ Community garden is an NFT platform where creators and makers can sell NFTs, set
 
 ### Video Demo
 
--
+- 
 
 ### Person of contact
 
